@@ -1,0 +1,6 @@
+{
+  "name": "AI Message Sender",
+  "description": "Compose, refine, and automatically dispatch intelligent messages across Email, WhatsApp, SMS, and Slack powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
